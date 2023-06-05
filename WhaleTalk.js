@@ -1,4 +1,4 @@
-const input = 'vai trabalhar';
+const input = 'Podemos considerar o sucesso como um jogo de futebol, sem uma equipe não existe';
 
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 
